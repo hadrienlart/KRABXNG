@@ -16,18 +16,18 @@ KRABXNG follows a young woman's journey from victim to spiritual warrior as she 
 ## Project Structure
 
 ### Core Game Design
-- [Game Concept](./game-concept.md) - Central vision, themes, and narrative structure
+- [Game Concept](./game_concept.md) - Central vision, themes, and narrative structure
 - [Protagonist](./protagonist.md) - Main character arc and relationships
-- [Combat System](./combat-system.md) - Krabong-based fighting mechanics and progression
-- [Karma System](./karma-system.md) - Dual karma mechanics and moral balance
+- [Combat System](./combat_system.md) - Krabong-based fighting mechanics and progression
+- [Karma System](./karma_system.md) - Dual karma mechanics and moral balance
 
 ### Cultural Foundation
-- [Thai Cultural Elements](./cultural-elements.md) - Buddhist philosophy, urban culture, spiritual entities
-- [Temple System](./temple-system.md) - Three-tier spiritual progression (city/mountain/ancient)
+- [Thai Cultural Elements](./cultural_elements.md) - Buddhist philosophy, urban culture, spiritual entities
+- [Temple System](./temple_system.md) - Three-tier spiritual progression (city/mountain/ancient)
 
 ### Development Areas (To Be Created)
-- [Art Direction](./art-direction.md) - Pixel art style and visual guidelines
-- [Audio Design](./audio-design.md) - Music and sound philosophy
+- [Art Direction](./art_direction.md) - Pixel art style and visual guidelines
+- [Audio Design](./audio_design.md) - Music and sound philosophy
 - [Level Design](./level-design.md) - Soi environments and temple layouts
 - [Technical Specs](./technical-specs.md) - Engine requirements and performance targets
 
