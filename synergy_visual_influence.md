@@ -140,6 +140,6 @@
 
 ---
 
-**Navigation**: [← Sacred Amulet Power System](./sacred-amulet-power-system.md) | [Enemy Design Hierarchy →](./enemy-design-hierarchy.md)
+**Navigation**: [← Sacred Amulet Power System](./sacred_amulet_power_system.md) | [Enemy Design Hierarchy →](./enemy_design_hierarchy.md)
 
-**Related**: [Traditional Sarong Power System](./traditional-sarong-power-system.md) | [Karma System](../karma-system.md) | [Cultural Elements](../cultural-elements.md)
+**Related**: [Traditional Sarong Power System](./traditional_sarong_power_system.md) | [Karma System](../karma_system.md) | [Cultural Elements](../cultural_elements.md)

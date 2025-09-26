@@ -125,6 +125,6 @@
 
 ---
 
-**Navigation**: [← Art Direction](../art-direction.md) | [Character Design →](./character-design.md)
+**Navigation**: [← Art Direction](../art_direction.md) | [Character Design →](./character_design.md)
 
-**Related**: [Technical Specifications](./technical-specifications.md) | [Style Guide](./style-guide.md)
+**Related**: [Technical Specifications](./technical_specifications.md) | [Style Guide](./style_guide.md)

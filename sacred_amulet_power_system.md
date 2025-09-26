@@ -296,6 +296,6 @@
 
 ---
 
-**Navigation**: [← Traditional Sarong Power System](./traditional-sarong-power-system.md) | [Enemy Design Hierarchy →](./enemy-design-hierarchy.md)
+**Navigation**: [← Traditional Sarong Power System](./traditional_sarong_power_system.md) | [Enemy Design Hierarchy →](./enemy_design_hierarchy.md)
 
-**Related**: [Cultural Elements](../../cultural-elements.md) | [Synergy Systems: Visual Influence](./synergy-visual-influence.md) | [Temple System](../../temple-system.md)
+**Related**: [Cultural Elements](../../cultural_elements.md) | [Synergy Systems: Visual Influence](./synergy_visual_influence.md) | [Temple System](../../temple_system.md)

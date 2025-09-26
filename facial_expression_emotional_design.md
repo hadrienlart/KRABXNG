@@ -197,6 +197,6 @@
 
 ---
 
-**Navigation**: [← Protagonist Visual Evolution Arc](./protagonist-evolution-arc.md) | [Traditional Sarong Power System →](./traditional-sarong-power-system.md)
+**Navigation**: [← Protagonist Visual Evolution Arc](./protagonist_evolution_arc.md) | [Traditional Sarong Power System →](./traditional_sarong_power_system.md)
 
-**Related**: [Cultural Elements](../../cultural-elements.md) | [NPC Design Guidelines](./npc-design-guidelines.md) | [Character Animation Language](./character-animation-language.md)
+**Related**: [Cultural Elements](../../cultural_elements.md) | [NPC Design Guidelines](./npc_design_guidelines.md) | [Character Animation Language](./character_animation_language.md)

@@ -233,6 +233,6 @@
 
 ---
 
-**Navigation**: [← Facial Expression and Emotional Design](./facial-expression-emotional-design.md) | [Sacred Amulet Power System →](./sacred-amulet-power-system.md)
+**Navigation**: [← Facial Expression and Emotional Design](./facial_expression_emotional_design.md) | [Sacred Amulet Power System →](./sacred_amulet_power_system.md)
 
-**Related**: [Cultural Elements](../../cultural-elements.md) | [Synergy Systems: Visual Influence](./synergy-visual-influence.md) | [Combat System](../../combat-system.md)
+**Related**: [Cultural Elements](../../cultural_elements.md) | [Synergy Systems: Visual Influence](./synergy_visual_influence.md) | [Combat System](../../combat_system.md)

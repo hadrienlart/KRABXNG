@@ -184,6 +184,6 @@
 
 ---
 
-**Navigation**: [← Character Design](../character-design.md) | [Facial Expression and Emotional Design →](./facial-expression-emotional-design.md)
+**Navigation**: [← Character Design](../character_design.md) | [Facial Expression and Emotional Design →](./facial_expression_emotional_design.md)
 
-**Related**: [Karma System](../../karma-system.md) | [Cultural Elements](../../cultural-elements.md) | [Protagonist](../../protagonist.md)
+**Related**: [Karma System](../../karma_system.md) | [Cultural Elements](../../cultural_elements.md) | [Protagonist](../../protagonist.md)

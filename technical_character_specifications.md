@@ -243,6 +243,6 @@
 
 ---
 
-**Navigation**: [← Character Animation Language](./character-animation-language.md) | [Character Design](../character-design.md)
+**Navigation**: [← Character Animation Language](./character_animation_language.md) | [Character Design](../character_design.md)
 
-**Related**: [Art Direction](../art-direction.md) | [Cultural Elements](../../cultural-elements.md) | [Technical Specifications](../technical-specifications.md)
+**Related**: [Art Direction](../art_direction.md) | [Cultural Elements](../../cultural_elements.md) | [Technical Specifications](../technical_specifications.md)

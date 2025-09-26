@@ -224,6 +224,6 @@
 
 ---
 
-**Navigation**: [← Sacred Amulet Power System](./sacred-amulet-power-system.md) | [Character Animation Language →](./character-animation-language.md)
+**Navigation**: [← Sacred Amulet Power System](./sacred_amulet_power_system.md) | [Character Animation Language →](./character_animation_language.md)
 
-**Related**: [Cultural Elements](../../cultural-elements.md) | [Combat System](../../combat-system.md) | [Karma System](../../karma-system.md)
+**Related**: [Cultural Elements](../../cultural_elements.md) | [Combat System](../../combat_system.md) | [Karma System](../../karma_system.md)
